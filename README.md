@@ -13,7 +13,7 @@
 | Project | Topic | Key Techniques |
 |---------|-------|----------------|
 | [Regression](./Regression_Mode_Analysis) | 📈 Regression | Linear/Polynomial · KMeans · RMSE · Residual Analysis |
-| [Time Series](./TimeSeries_Forecasting) | ⏳ Forecasting | Ridge · HistGradientBoosting · Lag Features · Business Loss |
+| [Time Series](./TimeSeries_Forecasting) | ⏳ Forecasting | [Ridge](./Synthetic_Data_Ridge) · HistGradientBoosting · Lag Features · Business Loss |
 | [Imbalanced Classification](./Classification_Imbalanced) | ⚖️ Classification | Precision/Recall · Threshold Tuning |
 
 <details>
