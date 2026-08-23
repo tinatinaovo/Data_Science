@@ -1,6 +1,5 @@
-# CSCI 6409 – Data Science Projects
+# Data Science
 
-**Course**: Process of Data Science  
 **Skills**: Python, scikit-learn, Pandas, Machine Learning, Model Evaluation, Imbalanced Learning, Feature Engineering
 
 ---
